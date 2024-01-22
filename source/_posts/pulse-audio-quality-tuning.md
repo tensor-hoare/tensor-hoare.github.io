@@ -6,5 +6,3 @@
 # 解决
 https://wiki.archlinux.org/title/PulseAudio/Troubleshooting#Glitches,_skips_or_crackling
 https://swaroop-m.medium.com/beginners-guide-for-better-audio-quality-in-linux-d41de6f35a14
-
-# Test
